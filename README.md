@@ -1,2 +1,17 @@
-# habit-tracker-ui
-This project contains a minimalist UI/UX design for a habit tracker mobile application.
+# Habit Tracker App – UI/UX Design
+
+A minimalist habit tracking mobile app designed to help users build daily routines with calm visuals and simple progress insights.
+
+## Screens
+- Home Dashboard
+- Progress & Insights
+
+## Design Focus
+- Minimal UI
+- Soft pastel color system
+- Clear visual hierarchy
+- Beginner-friendly habit tracking
+
+## Tools Used
+- Figma
+
