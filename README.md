@@ -3,6 +3,7 @@
 A minimalist habit tracking mobile app designed to help users build daily routines with calm visuals and simple progress insights.
 
 ## Screens
+-Login Page
 - Home Dashboard
 - Progress & Insights
 
@@ -14,4 +15,5 @@ A minimalist habit tracking mobile app designed to help users build daily routin
 
 ## Tools Used
 - Figma
+- Flaticon(for symbols)
 
